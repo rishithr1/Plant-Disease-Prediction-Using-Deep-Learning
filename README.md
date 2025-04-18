@@ -27,7 +27,7 @@ More info about dataset can be found here :
 
 ## 📝 Project Architecture
 
-![potatodisease_architecture](https://github.com/Hamagistral/Potato-Disease-Classification/assets/66017329/ec0ae211-bd26-4b7c-9115-641bb0dc1084)
+![potatodisease_architecture](https://github.com/rishithr1/Plant-Disease-Prediction-Using-Deep-Learning/blob/main/dataset/architecture.png)
 
 ## 🛠️ Technologies Used
 
